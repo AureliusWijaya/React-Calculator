@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Made for IT DIV early selection bootcamp
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
